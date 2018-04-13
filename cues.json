@@ -1,0 +1,154 @@
+[
+	{
+		"time": [0,0],
+		"sel": "#introduction-ANIls3",
+		"text": "Introduction"
+	},
+	{
+		"time": [0,20],
+		"sel": "#id-6QeIz",
+		"scroll": true
+	},
+	{
+		"time": [0,36],
+		"sel": "#id-6mYhB",
+		"scroll": true
+	},
+	{
+		"time": [0,50],
+		"sel": "#id-mlIesG",
+		"scroll": true,
+		"text": "Motivating SVMs"
+	},
+	{
+		"time": [1,30],
+		"sel": "#id-yYhETG",
+		"scroll": true
+	},
+	{
+		"time": [1,48],
+		"sel": "#id-qYhpt0",
+		"scroll": true
+	},
+	{
+		"time": [2,7],
+		"sel": "#id-E3hkir",
+		"scroll": true
+	},
+	{
+		"time": [2,43],
+		"sel": "#id-WpIZs0",
+		"scroll": true,
+		"text": "Maximizing Margin"
+	},
+	{
+		"time": [3,30],
+		"sel": "#id-qYhQuASJ",
+		"scroll": true,
+		"text": "Fitting SVM"
+	},
+	{
+		"time": [4,10],
+		"sel": "#id-E3hZSjSb",
+		"scroll": true
+	},
+	{
+		"time": [5,5],
+		"sel": "#id-98hvtnSd",
+		"scroll": true
+	},
+	{
+		"time": [5,40],
+		"sel": "#id-ZGhbc0S1",
+		"scroll": true
+	},
+	{
+		"time": [6,32],
+		"sel": "#id-V0hGUESO",
+		"scroll": true
+	},
+	{
+		"time": [7,20],
+		"sel": "#id-gYhRumHp",
+		"scroll": true,
+		"text": "Kernel SVM"
+	},
+	{
+		"time": [8,17],
+		"sel": "#id-gRIOSmHp",
+		"scroll": true
+	},
+	{
+		"time": [8,53],
+		"sel": "#id-oYhnteHQ",
+		"scroll": true
+	},
+	{
+		"time": [10,51],
+		"sel": "#id-8zhxh2He",
+		"scroll": true
+	},
+	{
+		"time": [12,9],
+		"sel": "#id-E3hxuaFb",
+		"scroll": true,
+		"text": "Tuning: Softening Margins"
+	},
+	{
+		"time": [13,28],
+		"sel": "#id-98hBHVFd",
+		"scroll": true
+	},
+	{
+		"time": [14,30],
+		"sel": "#id-eJhguq",
+		"scroll": true,
+		"text": "Face Recognition"
+	},
+	{
+		"time": [15,54],
+		"sel": "#id-qYhWHq",
+		"scroll": true
+	},
+	{
+		"time": [17,6],
+		"sel": "#id-aEhof0",
+		"scroll": true
+	},
+	{
+		"time": [17,42],
+		"sel": "#id-98hWcm",
+		"scroll": true
+	},
+	{
+		"time": [17,50],
+		"sel": "#id-XDhYUD",
+		"scroll": true
+	},
+	{
+		"time": [18,40],
+		"sel": "#id-V0hes5",
+		"scroll": true
+	},
+	{
+		"time": [18,51],
+		"sel": "#id-8zhdTl",
+		"scroll": true
+	},
+	{
+		"time": [19,31],
+		"sel": "#id-0ahOHl",
+		"scroll": true
+	},
+		{
+		"time": [20,3],
+		"sel": "#id-D2hDtG",
+		"scroll": true
+	},
+	{
+		"time": [20,24],
+		"sel": "#id-j2Ivsa",
+		"scroll": true,
+		"text": "Summary"
+	}
+]
