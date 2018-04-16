@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oreillymedia/binder-support-vector-machines/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oreillymedia/binder-support-vector-machines/master?filepath=index.ipynb)
